@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currencyconv</string>
+    <string name="buttonClr">CLEAR</string>
+    <string name="buttonConv">CONVERT</string>
+    <string name="BDTtextView">BDT</string>
+    <string name="USDtextView">USD</string>
+</resources>
